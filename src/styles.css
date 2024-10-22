@@ -6,6 +6,7 @@
 
 html,
 body {
+  caret-color:transparent;
   font-family: "Montserrat", sans-serif;
   height: 100%;
   margin: 0;
@@ -123,3 +124,10 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+.title{
+  /* color:white;
+  text-decoration: underline; */
+}
+/* #portfolio{
+  background: #000;
+} */
