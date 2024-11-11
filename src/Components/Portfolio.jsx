@@ -45,8 +45,8 @@ const projectList = [
   {
     title: "A fullstack Ecommerce website",
     description:
-      "Working on a fully functional ecommerce website using react and tailwind that can manage the products, its details, with their purchasing and order details. It is accompanied with secured authentication using jwt and session management and payment methods(stripe authentication).",
-    url: "",
+      "A fully functional ecommerce website using react and tailwind that can manage the products, its details, with their purchasing and order details. It is accompanied with secured authentication using jwt and session management and payment methods(stripe authentication).",
+    url: "https://ecommerce-gules-six-31.vercel.app/",
   },
   {
     title: "A Real time chat app",
